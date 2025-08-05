@@ -1,2 +1,1 @@
-# devopstools
-t3at3t
+# FastAPI app for serving GPT4All models
